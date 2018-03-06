@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@starinje/doxity": "^0.5.0",
+    "@starinje/doxity": "^0.5.3",
     "fs": "0.0.1-security",
     "ganache-cli": "^6.0.3",
     "gatsby": "^1.9.224",

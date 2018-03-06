@@ -1,10 +1,10 @@
-linkPrefix = "/inbox"
+linkPrefix = ""
 name = "inbox"
 license = "ISC"
 version = "1.0.0"
 description = ""
 author = ""
-buildTime = 2018-03-06T19:29:29.188Z
+buildTime = 2018-03-06T21:59:03.552Z
 target = "scripts/doxity"
 src = "contracts/*"
 dir = "pages/docs"
