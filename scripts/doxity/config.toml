@@ -1,1 +1,14 @@
-linkPrefix = ""
+linkPrefix = "inbox"
+name = "inbox"
+license = "ISC"
+version = "1.0.0"
+description = ""
+author = ""
+buildTime = 2018-03-06T19:15:12.372Z
+target = "scripts/doxity"
+src = "contracts/*"
+dir = "pages/docs"
+source = "https://github.com/DigixGlobal/doxity-gatsby-starter-project/archive/a4886b7a7a04c018ac04fed3125d7d4785e74bed.tar.gz"
+out = "docs"
+
+[interaction]
